@@ -7,7 +7,7 @@ How to use:
 2) Open up index.html in a web browser
 3) Click on the button, "Show stops between MIT and Harvard"
 
-Alternatively, you might be able to run it if you have proper permissions and can click this link:
+Alternatively, click this link:
 <a href="http://wesleynguyen.github.io/Real-Time-Bus-Tracking">Real-Time-Bus-Tracking</a>
 
 Roadmap:
